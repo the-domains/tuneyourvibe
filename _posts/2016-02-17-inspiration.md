@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T19:09:02.626Z'
-dateModified: '2016-02-17T19:08:47.292Z'
+datePublished: '2016-02-18T02:50:40.020Z'
+dateModified: '2016-02-18T02:50:30.977Z'
 title: Inspiration
 author: []
+sourcePath: _posts/2016-02-17-inspiration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-inspiration.md
-published: true
 url: inspiration/index.html
 _type: Article
 
@@ -38,5 +38,4 @@ Biology of Belief, _Bruce
 Lipton explains Epigenetics, the new understanding that the environment (the
 world we live in and our perception and beliefs about the world) controls the
 expression of genes and, subsequently, how our bodies function, or don't.
-Change your perception, and your body chemistry changes. How fabulous is that?
-Be empowered.
+Change your perception, and your body chemistry changes. How fabulous  and empowering is that?
