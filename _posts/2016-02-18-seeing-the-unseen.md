@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-18T02:49:38.550Z'
-dateModified: '2016-02-18T02:49:28.434Z'
+description: "When LIGO scientists confirmed last week their detection of gravitational waves in the wake of merging black holes, it meant two things to regular folk: science can now see something it couldn't, and science must now acknowledge the existence of other types of energy fields, even though they are officially as yet undetectable."
+datePublished: '2016-03-10T20:38:28.516Z'
+dateModified: '2016-03-10T20:38:27.880Z'
 title: Seeing the Unseen
 author: []
 sourcePath: _posts/2016-02-18-seeing-the-unseen.md
