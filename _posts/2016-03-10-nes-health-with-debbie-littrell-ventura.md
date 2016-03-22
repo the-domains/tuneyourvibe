@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T19:11:56.379Z'
-dateModified: '2016-03-10T19:11:25.047Z'
+datePublished: '2016-03-22T21:05:58.635Z'
+dateModified: '2016-03-22T21:05:26.325Z'
 title: NES Health with Debbie Littrell Ventura
 author: []
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
@@ -26,10 +26,10 @@ _type: Article
 
 # NES Health with Debbie Littrell Ventura
 
-As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients have rekindled their creative fires; cried as I've witnessed transformation of profound suffering; encouraged as the paths unfolded; and squealed with joy as pains subsided, stresses ebbed, and life became new again.
+As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients have rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and life became new again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fd79936-b1d2-4ca3-ac09-e99729fab013.jpg)
 
-I've learned that the body is not the enemy; that we are always - always! - striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention. 
+I've learned that the body is not the enemy; that we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention. 
 
 Though the way forward may not always be clear, we have the option to choose how to respond to these messages. Resistance takes many forms and keeps us stuck in the patterns that created the imbalance in the first place. Acceptance and a curious, loving perspective toward our situation can shift us out of the worn tracks of suffering and calls to us new helpers and solutions. This is where healing begins.
 
@@ -39,7 +39,6 @@ I've worked as a professional in the legal technology field for more than twenty
 
 After a prolonged chronic illness and journey back to health (you can read about that below), I received a degree in Homeopathy from the Texas Institute for Homeopathy in San Antonio, Texas, and subsequently gained certification as a NES Health practitioner. I see clients in my office in the [Integrative Healing Institute][0] in San Antonio, and also work remotely with clients across the country.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/531eef8d-5d52-482d-bb45-c54dff8e98a4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a0bf0a-c913-4560-8f57-f3917438f54c.jpg)
 
 ## My Personal Wellness Story
 
@@ -73,8 +72,6 @@ Enter the blessing:  It was at this stage in my adventure that I discovered NES 
 
 6\.  True, lasting healing requires a change of heart.
 
-  
-  
 
 
 [0]: http://www.naturalreflexes.com/
