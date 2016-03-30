@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The HBF regulates all the processes that occur in your body, and can be\_damaged by all\_manner of trauma, stress, toxins, injury, infections, and\_radiation exposure. When functioning correctly, the Human body-field\_orchestrates harmonious balance\_in your body and mind, and encourages the\_body’s own ability to heal and stay\_healthy. When distortions in this\_energetic field occur, the information\_pathways break down, the mind and\_body become tired, and health becomes\_compromised."
-datePublished: '2016-03-30T13:16:42.482Z'
-dateModified: '2016-03-30T13:15:28.217Z'
+datePublished: '2016-03-30T17:43:04.993Z'
+dateModified: '2016-03-30T17:42:38.189Z'
 title: Physics-Based Biology
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -30,7 +30,7 @@ Quantum biology is changing the way we look at health. As we view the body/mind 
 
 ## The Body's OS
 
-The body-field is the body/mind's operating system, and supports all the processes that occur in your body. When functioning in alignment, the body-field orchestrates harmonious balance in your body and mind, and encourages the body's own ability to heal and stay healthy.
+The body-field is the body/mind's operating system, and supports all the processes that occur in your hardware. When functioning in alignment, the body-field orchestrates harmonious balance in your body and mind, and encourages the body's own ability to heal and stay healthy.
 
 Energy medicine in its many forms - from acupuncture or qi gong to aromatherapy or prayer - supports growth and change in the energetic realm, from which our physical structure emanates. NES Health is one of the leading energy-based therapies in the world, and  provides a highly effective method for interacting with and providing support for underlying energy structures in the body.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/233c441b0dded7046f82d8107253716bb88deb47.jpg)
@@ -39,12 +39,11 @@ Energy medicine in its many forms - from acupuncture or qi gong to aromatherapy 
 
 For more than fourteen
 years, health practitioners around the world have been helping people get well
-and stay well with NES Health.  ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ecb2b4fcba182636cb2759f84d84a9c/passthrough.jpg?height=373&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1a92e9b0b05cb818778c539d12b46c54d03b44ed.jpg&width=444)
+and stay well with NES Health.  
 
 NES Health sessions
 begin with a fast, non-invasive scan which provides a way to measure the
-functionality of your body-field. The body-field is an energetic matrix created
-by your body from energy it both produces and gathers from the
+functionality of your body-field. The body-field is an energetic matrix created from energy the body both produces and gathers from the
 environment.
 
 The NES scan detects
@@ -53,23 +52,42 @@ support the field where change or growth is occurring.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d40b7e-046b-4a53-81b6-0b0185189881.jpg)
 
 ## Field Support
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74d7546-4d8c-4bcd-a359-af295ca9803c.jpg)
 
 Targeted and sequenced
 field support based on scan readings begin with the appropriate Infoceutical(r),
 which are drops taken in water, containing colloidal minerals
 imprinted with  energetic information. These informational data sets provide alignment
-instruction to the body-field, and have a rejuvenating energetic effect.
+instruction to the body-field, and can have a rejuvenating energetic effect.
 
-# 
-
-The NES miHealth device is also used off-body in sessions to encourage the process of  restoring information to and rejuvenating the HBF. By correcting energetic field damage, your body's inherent ability to heal itself is restored, and harmonious balance returns to body and mind.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e772c7074a6b97d550cdff0b526453a9843ecdd5.jpg)
+The NES miHealth device is also used in the home and in-office sessions to encourage the process of  restoring information to and rejuvenating the body-field. By correcting energetic field alignment, your body's inherent ability to heal itself is restored, and harmonious balance can return to body and mind.
 
 # Wellness from Anywhere
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg)
 
-The NES remote scanning system makes it possible to manage wellness from anywhere. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg)
+The NES remote scanning system makes it possible to work with clients anywhere in the world - you just need a scanning device (see below), a computer to run the scan software,  and an internet connection to transmit your scans.
 
-# 
+## Typical remote scan sessions include:
+
+* On day of session, you perform and transmit the scan.
+* We connect through a Zoom online meeting or Skype. I will share my screen, and we'll walk through your scan elements together.
+* We discuss an Infoceutical protocol and, if applicable, a miHealth protocol for the cycle.
+* Infoceuticals are ordered, scan details are delivered to you; you are empowered.
+
+## Scanning Devices
+
+There are three options for folks to manage their own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e96e4111ca2b1155563cd90058511fe93522f5.jpg)
+
+1\. Professional miHealth device - the professional version of the world-class miHealth PEMF device. Information sets based on NES' unique mapping of the body-field are carried on friendly frequencies that rejuvenate and restore field communication. May be used on or off-body. Pro device comes loaded with all available programs; training included.
+
+2\. Client miHealth device - same as pro but with limited programs; designed to work with a remote practitioner who loads custom functions each cycle. Training included.
+
+3\. Client Remote Scanner - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); great way to stay energetically supported during travels.
+
+## miHealth for pain:
+
+<iframe width="523" height="294" src="https://www.youtube.com/embed/pHhFVLVimdk" frameborder="0" allowfullscreen="" style=""></iframe>
+
+## NES Health overview:
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/gM6dRCpV0fI" frameborder="0" allowfullscreen="" style=""></iframe>
