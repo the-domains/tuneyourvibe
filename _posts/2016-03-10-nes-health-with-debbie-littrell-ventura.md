@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T21:05:58.635Z'
-dateModified: '2016-03-22T21:05:26.325Z'
+datePublished: '2016-03-30T01:10:56.977Z'
+dateModified: '2016-03-30T01:10:35.192Z'
 title: NES Health with Debbie Littrell Ventura
 author: []
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
@@ -35,7 +35,7 @@ Though the way forward may not always be clear, we have the option to choose how
 
 ## About me...
 
-I've worked as a professional in the legal technology field for more than twenty years. My great love and passion, however, is the study and application of bioenergetic and informational healthcare. I knew when I first discovered NES that it was revolutionary and held the potential to change the way we understand energy and information in relation to well-being.  I also intuitively knew that if anything could help my loved ones suffering from debilitating illnesses and their treatments, it was this amazing therapeutic system.
+I worked as a professional in the legal technology field for more than twenty five years. My great love and passion, however, is the study and application of bioenergetic and informational healthcare. I knew when I first discovered NES that it was revolutionary and held the potential to change the way we understand energy and information in relation to well-being.  I also intuitively knew that if anything could help my loved ones suffering from debilitating illnesses and their treatments, it was this amazing therapeutic system.
 
 After a prolonged chronic illness and journey back to health (you can read about that below), I received a degree in Homeopathy from the Texas Institute for Homeopathy in San Antonio, Texas, and subsequently gained certification as a NES Health practitioner. I see clients in my office in the [Integrative Healing Institute][0] in San Antonio, and also work remotely with clients across the country.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/531eef8d-5d52-482d-bb45-c54dff8e98a4.jpg)
@@ -71,7 +71,6 @@ Enter the blessing:  It was at this stage in my adventure that I discovered NES 
 5\.  Being well in the 21st century requires, in part, learning to manage our environment with regard to stress, food and environmental toxins, and electromagnetic and other forms of radiation. Again, this is a personal responsibility -- our levels of tolerance to each of these factors are different, and we each must forge our own path to wellness.
 
 6\.  True, lasting healing requires a change of heart.
-
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e04287b5-536c-4019-8681-2b8d3a4db472.jpg)
 
 [0]: http://www.naturalreflexes.com/
