@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-03-30T22:16:13.458Z'
-dateModified: '2016-03-30T22:16:04.992Z'
+datePublished: '2016-03-30T22:35:56.348Z'
+dateModified: '2016-03-30T22:35:20.059Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -68,6 +68,17 @@ The first ever remote wellness system from NES Health connects clients to practi
 Clients need a scanning device (see below), a Windows or Mac computer running the NES Desktop software, and an internet connection to transmit scans. Clients perform their own scans on the day of their scheduled session.
 
 ## Typical remote scan sessions include:
+
+1\. On or before the day of your session, you perform and transmit the scan.
+
+2\. We connect through a Zoom online meeting or Skype. I'll share my screen, and we'll walk through your scan elements together.
+
+3\. We discuss an Infoceutical protocol and, if applicable, a miHealth protocol for the 
+
+* On day of session, you perform and transmit the scan.
+* We connect through a Zoom online meeting or Skype. I will share my screen, and we'll walk through your scan elements together.
+
+We connect through a Zoom online meeting or Skype. I will share my screen, and we'll walk through your scan elements together.
 
 * _On day of session, you perform and transmit the scan._
 * _We connect through a Zoom online meeting or Skype. I will share my screen, and we'll walk through your scan elements together._
