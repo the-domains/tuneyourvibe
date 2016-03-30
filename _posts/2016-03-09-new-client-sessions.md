@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-03-30T17:59:06.418Z'
-dateModified: '2016-03-30T17:58:49.474Z'
+description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
+datePublished: '2016-03-30T21:56:09.550Z'
+dateModified: '2016-03-30T21:55:04.231Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -61,9 +61,11 @@ instruction to the body-field, and can have a rejuvenating energetic effect.
 The NES miHealth device is also used in the home and in-office sessions to encourage the process of  restoring information to and rejuvenating the body-field. By correcting energetic field alignment, your body's inherent ability to heal itself is restored, and harmonious balance can return to body and mind.
 
 # Wellness from Anywhere
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26a28a2574eb4cb2dda1856805aea872/passthrough.jpg?height=289&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg&width=480)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg)
 
-Click to learn about NES Health Remote Scanning
+The first ever remote wellness system from NES Health connects clients to practitioners from anywhere in the world. The small, portable scanning devices can be used at home, or taken along on travel.
+
+Clients need a scanning device (see below), a Windows or Mac computer running the [NES Desktop software][0], and an internet connection to transmit scans. Clients perform their own scans on the day of their scheduled session.
 
 ## Typical remote scan sessions include:
 
@@ -83,6 +85,8 @@ There are three options for folks to manage their own NES Health experience. All
 
 3\. Client Remote Scanner - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); great way to stay energetically supported during travels.
 
-## 
-
 <iframe width="854" height="480" src="https://www.youtube.com/embed/gM6dRCpV0fI" frameborder="0" allowfullscreen="" style=""></iframe>
+
+
+
+[0]: https://s3.amazonaws.com/nes-software/RELEASE/NESDesktop/NESDesktop.msi
