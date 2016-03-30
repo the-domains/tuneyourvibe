@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-03-30T21:56:09.550Z'
-dateModified: '2016-03-30T21:55:04.231Z'
+datePublished: '2016-03-30T22:16:13.458Z'
+dateModified: '2016-03-30T22:16:04.992Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -65,28 +65,24 @@ The NES miHealth device is also used in the home and in-office sessions to encou
 
 The first ever remote wellness system from NES Health connects clients to practitioners from anywhere in the world. The small, portable scanning devices can be used at home, or taken along on travel.
 
-Clients need a scanning device (see below), a Windows or Mac computer running the [NES Desktop software][0], and an internet connection to transmit scans. Clients perform their own scans on the day of their scheduled session.
+Clients need a scanning device (see below), a Windows or Mac computer running the NES Desktop software, and an internet connection to transmit scans. Clients perform their own scans on the day of their scheduled session.
 
 ## Typical remote scan sessions include:
 
-* On day of session, you perform and transmit the scan.
-* We connect through a Zoom online meeting or Skype. I will share my screen, and we'll walk through your scan elements together.
-* We discuss an Infoceutical protocol and, if applicable, a miHealth protocol for the cycle.
-* Infoceuticals are ordered, scan details are delivered to you; you are empowered.
+* _On day of session, you perform and transmit the scan._
+* _We connect through a Zoom online meeting or Skype. I will share my screen, and we'll walk through your scan elements together._
+* _We discuss an Infoceutical protocol and, if applicable, a miHealth protocol for the cycle._
+* _Infoceuticals are ordered, scan details are delivered to you; you are empowered._
 
 ## Scanning Devices
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40684c69-0335-4835-8949-3b2e3d189838.jpg)
 
 There are three options for folks to manage their own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/642d60f6074e98ab18a9c0263ad297eb/passthrough.jpg?height=553&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F396d6526469026697c0d43b6ae0babbdb50fbe5f.jpg&width=750)
 
-1\. Professional miHealth device - professional version of the world-class NES Health miHealth PEMF device. Information sets based on NES' body-field mapping are embedded in friendly frequencies that rejuvenate and restore communication in the body-field. Can be used on- or off-body. Professional version has all available functions. Training included.
+1\.**Professional miHealth device** - professional version of the world-class NES Health miHealth PEMF device. Information sets based on NES' body-field mapping are embedded in friendly frequencies that rejuvenate and restore communication in the body-field. Can be used on- or off-body. Professional version has all available functions. Training included.
 
-2\. Client miHealth device - same as pro but with limited programs; designed to work with a remote practitioner who loads custom functions each cycle. Training included.
+2\. **Client miHealth device** - same as pro but with limited programs; designed to work with a remote practitioner who loads custom functions each cycle. Training included.
 
-3\. Client Remote Scanner - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); great way to stay energetically supported during travels.
+3\. **Client Remote Scanner** - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); great way to stay energetically supported during travels.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/gM6dRCpV0fI" frameborder="0" allowfullscreen="" style=""></iframe>
-
-
-
-[0]: https://s3.amazonaws.com/nes-software/RELEASE/NESDesktop/NESDesktop.msi
