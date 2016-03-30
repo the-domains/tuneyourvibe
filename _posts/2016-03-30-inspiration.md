@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-30T18:36:20.399Z'
-dateModified: '2016-03-30T18:36:11.846Z'
+description: "\"...Genetic determinism also led to the belief that genes control our health, the characteristics of our health, our behavior, and our emotions....\_A gene is the blueprint. Blueprints do not turn on and off.... Turns out today it is apparent that one percent or less of disease issues on this planet is actually connected to genes.\" -Cell biologist Bruce Lipton"
+datePublished: '2016-03-30T22:22:56.037Z'
+dateModified: '2016-03-30T12:34:31.699Z'
 title: Inspiration
 author: []
 authors: []
@@ -22,11 +22,14 @@ url: inspiration/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dce2e520-d592-4fc2-a07a-a841b47660cb.jpg)
+
 # Inspiration
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae3eb2b-2156-4fe6-8111-0d8f878bbf8b.jpg)
 
-"We live in an infinite universe with infinite boundaries." -Physicist Nassim Haramein
+"...Genetic determinism also led to the belief that genes control our health, the characteristics of our health, our behavior, and our emotions.... A gene is the blueprint. Blueprints do not turn on and off.... Turns out today it is apparent that one percent or less of disease issues on this planet is actually connected to genes." -Cell biologist Bruce Lipton
 
-Nassim is credited with the most accurate calculation of the charge radius of the proton, which shows how each proton within every molecule of our bodies (and all matter) is a black hole. This is significant because black holes are 1) connected to all other black holes; and 2) each contain all mass and information in the entire Universe. This is physics, proving the spiritual concept "We are all One". I love this, also, because it means we each have within us access to all information available in existence. We are only limited by our own beliefs (see Inspiration post with Dr. Bruce Lipton).
+In his stunning work, _The Biology of Belief, _Bruce Lipton explains Epigenetics, the new understanding that the environment (the world we perceive) controls the expression of genes and, subsequently, how our bodies function, or don't.
 
-<iframe width="855" height="480" src="https://www.youtube.com/embed/tbE5bVl8r2g" frameborder="0" allowfullscreen="" style=""></iframe>
+Ultimately, awareness of what drives our perception is key to understanding our path to wellness. In this lively and interesting discussion with Alan Steinfield, Dr. Lipton breaks it way down.
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/iqqqbYaQHAk" frameborder="0" allowfullscreen="" style=""></iframe>
