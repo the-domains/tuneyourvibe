@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-03-30T23:27:45.483Z'
-dateModified: '2016-03-30T23:09:59.418Z'
+datePublished: '2016-03-30T23:57:43.016Z'
+dateModified: '2016-03-30T23:30:08.375Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
