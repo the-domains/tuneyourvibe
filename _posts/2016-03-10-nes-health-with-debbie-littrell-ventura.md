@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-30T01:10:56.977Z'
-dateModified: '2016-03-30T01:10:35.192Z'
+datePublished: '2016-03-30T18:29:00.995Z'
+dateModified: '2016-03-30T18:28:56.339Z'
 title: NES Health with Debbie Littrell Ventura
 author: []
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
@@ -22,14 +22,13 @@ url: nes-health-with-debbie-littrell-ventura/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65d69275-4630-4ff3-a5fe-cf31f67ae7ab.jpg)
-
-# NES Health with Debbie Littrell Ventura
+NES Health with Debbie Littrell Ventura
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/649585b8-4cd7-4d18-9f21-cc62d889442b.jpg)
 
 As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients have rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and life became new again.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fd79936-b1d2-4ca3-ac09-e99729fab013.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4c412-5a12-41c4-9dbe-df18a9c1b733.jpg)
 
-I've learned that the body is not the enemy; that we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention. 
+I've learned that the body is not the enemy; in fact, we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention. 
 
 Though the way forward may not always be clear, we have the option to choose how to respond to these messages. Resistance takes many forms and keeps us stuck in the patterns that created the imbalance in the first place. Acceptance and a curious, loving perspective toward our situation can shift us out of the worn tracks of suffering and calls to us new helpers and solutions. This is where healing begins.
 
@@ -37,7 +36,7 @@ Though the way forward may not always be clear, we have the option to choose how
 
 I worked as a professional in the legal technology field for more than twenty five years. My great love and passion, however, is the study and application of bioenergetic and informational healthcare. I knew when I first discovered NES that it was revolutionary and held the potential to change the way we understand energy and information in relation to well-being.  I also intuitively knew that if anything could help my loved ones suffering from debilitating illnesses and their treatments, it was this amazing therapeutic system.
 
-After a prolonged chronic illness and journey back to health (you can read about that below), I received a degree in Homeopathy from the Texas Institute for Homeopathy in San Antonio, Texas, and subsequently gained certification as a NES Health practitioner. I see clients in my office in the [Integrative Healing Institute][0] in San Antonio, and also work remotely with clients across the country.
+After a prolonged chronic illness and journey back to health (you can read about that below), I received a degree in classical Homeopathy from the Texas Institute for Homeopathy in San Antonio, Texas, and subsequently gained certification as a NES Health practitioner. I see clients in my office in the Integrative Healing Institute in San Antonio, and also work remotely with clients across the country.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/531eef8d-5d52-482d-bb45-c54dff8e98a4.jpg)
 
 ## My Personal Wellness Story
@@ -49,14 +48,16 @@ Some years ago I developed an auto-immune condition affecting my thyroid functio
 "You'll never heal this holistically!  Just take the pill and get over it," said the good doctor. By this time, I had lost more than fifty pounds despite eating constantly; most of my hair had fallen out; my eyes were protruding painfully; my heart was racing and skipping beats; I rarely slept; and I was a shaky, hot (as in profusely sweaty and shriveled) mess. "The pill" to which the doctor referred was radioactive iodine (Radioiodine I-131), and was, and continues to be, the go-to treatment for hyperthyroid disorders, such as Grave's Disease.
 
 The proposed plan was to kill off my thyroid gland over a period of weeks using radiation. I have a natural curiosity and desire to learn things from every conceivable angle, so I was determined to understand fully the consequences of this seemingly drastic attack on the single most important gland in my body, despite my diminished ability to think and make decisions -- another awful and frightening symptom of my condition.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/985e6a9f-2d6f-406a-9991-d0dce6570f2c.jpg)
 
 I had already learned that a side effect of irradiating a hyperactive thyroid gland is the gland's propensity to pump out even more thyroid hormone in its dying gasps. The excessive circulating hormone often exacerbates proptosis, and leaves the victim with permanently bulging eyeballs. So, if the idea of irradiating my already very sick body was not enough, the prospect of spending the rest of my life looking like a cartoon drawing of myself was. Vainly, perhaps, I refused.
 
 Things got worse. Ultimately, I ended up in the hospital in the throes of a thyroid storm which, according to my spouse, was a horrifying, near-death event.  I remember only small bits of that day -- intense pain, crawling around in the ER screaming, and watching blood drip on my pants from one of the several IVs delivering the drugs to slow down my off-the-chart heart rate and reduce the inflammation that was squeezing every organ in my body. Sometime later in the ICU, apparently with some vehemence, I scandalously told our visiting pastor, "They gave me heroin!" I don't remember that, either.
 
-During this time, and in the years that followed, my desperate desire to become well led me in many directions. I ventured out into the alternative medicine unknown and tried anything that claimed it could help me. Some things did -- energetic therapies such as Homeopathy, Traditional Chinese Medicine, biofeedback systems, massage, Kundalini Yoga, psychotherapy, and meditation gave me much relief and hope that I would someday heal. Other things didn't help at all and some even made things worse.
+During this time, and in the years that followed, my desperate desire to become well led me in many directions. I ventured out into the alternative medicine unknown and tried anything that claimed it could help me. Some things did -- energetic therapies such as Homeopathy, Traditional Chinese Medicine, biofeedback systems, massage, Kundalini Yoga, psychotherapy, and meditation gave me much relief and glimpses of what was to come. Other things didn't help at all and some even made things worse.
 
 Eventually, after years of detoxification, dietary modifications, lifestyle changes, and learning to manage stress, the nightmare that had lasted for so long began to fade.  I had been suppressing thyroid function with medication for more than three years, and finally shifted to a belief that I would become completely well. I wanted to get off the meds and, once and for all, finish this chapter and move on.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e04287b5-536c-4019-8681-2b8d3a4db472.jpg)
 
 Enter the blessing:  It was at this stage in my adventure that I discovered NES Health, which I instantly believed to be a radical evolution of the many energetic therapies I had studied and used. Within four months, I was medication and symptom free, and determined to share this potential with others. And while this was really just the beginning, in the end, I learned a few things:
 
@@ -71,6 +72,4 @@ Enter the blessing:  It was at this stage in my adventure that I discovered NES 
 5\.  Being well in the 21st century requires, in part, learning to manage our environment with regard to stress, food and environmental toxins, and electromagnetic and other forms of radiation. Again, this is a personal responsibility -- our levels of tolerance to each of these factors are different, and we each must forge our own path to wellness.
 
 6\.  True, lasting healing requires a change of heart.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e04287b5-536c-4019-8681-2b8d3a4db472.jpg)
-
-[0]: http://www.naturalreflexes.com/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/481de2df-c54a-494d-a598-d6947d9ddd86.jpg)
