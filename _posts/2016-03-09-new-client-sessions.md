@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "The HBF regulates all the processes that occur in your body, and can be\_damaged by all\_manner of trauma, stress, toxins, injury, infections, and\_radiation exposure. When functioning correctly, the Human body-field\_orchestrates harmonious balance\_in your body and mind, and encourages the\_body’s own ability to heal and stay\_healthy. When distortions in this\_energetic field occur, the information\_pathways break down, the mind and\_body become tired, and health becomes\_compromised."
-datePublished: '2016-03-30T17:43:04.993Z'
-dateModified: '2016-03-30T17:42:38.189Z'
-title: Physics-Based Biology
+description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
+datePublished: '2016-03-30T17:59:06.418Z'
+dateModified: '2016-03-30T17:58:49.474Z'
+title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
 published: true
@@ -22,11 +22,11 @@ url: new-client-sessions/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/113dd024-8451-4878-9152-f2d7f4ddc644.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d40b7e-046b-4a53-81b6-0b0185189881.jpg)
 
-# Physics-Based Biology
+# Energy + Information = Life
 
-Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.
+Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.
 
 ## The Body's OS
 
@@ -49,7 +49,6 @@ environment.
 The NES scan detects
 energetic fluctuations occurring in the body/mind in a way that allows us to
 support the field where change or growth is occurring.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d40b7e-046b-4a53-81b6-0b0185189881.jpg)
 
 ## Field Support
 
@@ -62,9 +61,9 @@ instruction to the body-field, and can have a rejuvenating energetic effect.
 The NES miHealth device is also used in the home and in-office sessions to encourage the process of  restoring information to and rejuvenating the body-field. By correcting energetic field alignment, your body's inherent ability to heal itself is restored, and harmonious balance can return to body and mind.
 
 # Wellness from Anywhere
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26a28a2574eb4cb2dda1856805aea872/passthrough.jpg?height=289&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg&width=480)
 
-The NES remote scanning system makes it possible to work with clients anywhere in the world - you just need a scanning device (see below), a computer to run the scan software,  and an internet connection to transmit your scans.
+Click to learn about NES Health Remote Scanning
 
 ## Typical remote scan sessions include:
 
@@ -76,18 +75,14 @@ The NES remote scanning system makes it possible to work with clients anywhere i
 ## Scanning Devices
 
 There are three options for folks to manage their own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e96e4111ca2b1155563cd90058511fe93522f5.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/642d60f6074e98ab18a9c0263ad297eb/passthrough.jpg?height=553&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F396d6526469026697c0d43b6ae0babbdb50fbe5f.jpg&width=750)
 
-1\. Professional miHealth device - the professional version of the world-class miHealth PEMF device. Information sets based on NES' unique mapping of the body-field are carried on friendly frequencies that rejuvenate and restore field communication. May be used on or off-body. Pro device comes loaded with all available programs; training included.
+1\. Professional miHealth device - professional version of the world-class NES Health miHealth PEMF device. Information sets based on NES' body-field mapping are embedded in friendly frequencies that rejuvenate and restore communication in the body-field. Can be used on- or off-body. Professional version has all available functions. Training included.
 
 2\. Client miHealth device - same as pro but with limited programs; designed to work with a remote practitioner who loads custom functions each cycle. Training included.
 
 3\. Client Remote Scanner - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); great way to stay energetically supported during travels.
 
-## miHealth for pain:
-
-<iframe width="523" height="294" src="https://www.youtube.com/embed/pHhFVLVimdk" frameborder="0" allowfullscreen="" style=""></iframe>
-
-## NES Health overview:
+## 
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/gM6dRCpV0fI" frameborder="0" allowfullscreen="" style=""></iframe>
