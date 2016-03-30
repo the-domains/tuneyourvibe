@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The HBF regulates all the processes that occur in your body, and can be\_damaged by all\_manner of trauma, stress, toxins, injury, infections, and\_radiation exposure. When functioning correctly, the Human body-field\_orchestrates harmonious balance\_in your body and mind, and encourages the\_body’s own ability to heal and stay\_healthy. When distortions in this\_energetic field occur, the information\_pathways break down, the mind and\_body become tired, and health becomes\_compromised."
-datePublished: '2016-03-30T03:00:48.377Z'
-dateModified: '2016-03-30T03:00:38.004Z'
+datePublished: '2016-03-30T03:18:17.065Z'
+dateModified: '2016-03-30T03:17:30.448Z'
 title: 'Hello, Future.'
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -43,7 +43,7 @@ field support based on scan readings begin with the appropriate Infoceutical(r),
 which are drops taken in water, containing colloidal minerals
 imprinted with  energetic information. These informational data sets provide alignment
 instruction to the body-field, and have a rejuvenating energetic effect.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/316d4db8-a225-4dad-bb1a-67e3dcafdcb4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d40b7e-046b-4a53-81b6-0b0185189881.jpg)
 
 # The Body's OS
 
