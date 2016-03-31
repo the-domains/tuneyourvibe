@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'November 4-7, 2016; NES Health Clinical Practicum'
-datePublished: '2016-03-30T18:54:34.659Z'
-dateModified: '2016-03-30T18:54:05.994Z'
+description: "November 4-7, 2016; NES Health Foundation Training Practicum -\_Campbell, California"
+datePublished: '2016-03-31T05:37:51.611Z'
+dateModified: '2016-03-31T05:37:45.336Z'
 title: Events Calendar
 author: []
+sourcePath: _posts/2016-03-30-events-calendar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-events-calendar.md
-published: true
 url: events-calendar/index.html
 _type: Article
 
@@ -30,9 +30,13 @@ August 12-15, 2016; NES Health Foundation Training Practicum - Campbell, Califor
 
 April 29-May 2; NES Health Foundation Training Practicum - Campbell, California
 
+April 2, 2016; Alvin De Leon GNM Webinar - Separation Conflict
+
 March 19-21, 2016; Bioenergetic Health Practitioner Training, Columbus, Ohio
 
 February 26-29, 2016; NES Health Foundation Training Practicum - Campbell, California
+
+Jan. 30-31, 2016; Introduction to the Hakomi Method, Austin, Texas
 
 Jan. 21, 2016; NES Health Practitioner Training Webinar Series - Step by Step Guide to Remote Scanning with Debbie Ventura
 
