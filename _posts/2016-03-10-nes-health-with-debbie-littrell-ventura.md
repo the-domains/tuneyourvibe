@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients have rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and life became new again."
-datePublished: '2016-03-31T00:18:32.340Z'
-dateModified: '2016-03-31T00:18:17.053Z'
+datePublished: '2016-03-31T06:18:26.438Z'
+dateModified: '2016-03-31T06:18:23.563Z'
 title: NES Health with Debbie Littrell Ventura
 author: []
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
@@ -36,7 +36,7 @@ Though the way forward may not always be clear, we have the option to choose how
 
 I worked as a professional in the legal technology field for more than twenty five years. My great love and passion, however, is the study and application of bioenergetic and informational healthcare. I knew when I first discovered NES that it was revolutionary and held the potential to change the way we understand energy and information in relation to well-being.  I also intuitively knew that if anything could help my loved ones suffering from debilitating illnesses and their treatments, it was this amazing therapeutic system.
 
-After a prolonged chronic illness and journey back to health (you can read about that below), I received a degree in classical Homeopathy from the Texas Institute for Homeopathy in San Antonio, Texas, and subsequently gained certification as a NES Health practitioner. I see clients in my office in the Integrative Healing Institute in San Antonio, and also work remotely with clients across the country.
+After a prolonged chronic illness and journey back to health (you can read about that below), I received a degree in classical Homeopathy from the Texas Institute for Homeopathy in San Antonio, Texas, and subsequently gained certification as a NES Health practitioner. I see clients in my office in San Antonio, and work remotely with folks in all regions of the country and beyond. I also train and lecture on a range of topics relating to bioenergetic healthcare.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c761de-7614-422f-b669-19a7590e2377.jpg)
 
 ## My Personal Wellness Story
