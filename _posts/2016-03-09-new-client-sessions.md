@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-03-31T00:23:19.491Z'
-dateModified: '2016-03-31T00:22:58.441Z'
+datePublished: '2016-03-31T05:25:25.698Z'
+dateModified: '2016-03-31T05:25:05.104Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -30,7 +30,7 @@ Quantum biology is changing the way we look at health. As we view the body/mind 
 
 ## The Body's OS
 
-The body-field is the body/mind's operating system, and supports all the processes that occur in your hardware. When functioning in alignment, the body-field orchestrates harmonious balance in your body and mind, and encourages the body's own ability to heal and stay healthy.
+The body-field can be thought of as the body/mind's operating system, supporting all the processing that occurs in the hardware of your body. When functioning in alignment, the body-field orchestrates harmonious balance in your body and mind, and encourages the body's own ability to heal and stay healthy.
 
 Energy medicine in its many forms - from acupuncture or qi gong to aromatherapy or prayer - supports growth and change in the energetic realm, from which our physical structure emanates. NES Health is one of the leading energy-based therapies in the world, and  provides a highly effective method for interacting with and providing support for underlying energy structures in the body.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/233c441b0dded7046f82d8107253716bb88deb47.jpg)
@@ -53,12 +53,12 @@ support the field where change or growth is occurring.
 ## Field Support
 
 Targeted and sequenced
-field support based on scan readings begin with the appropriate Infoceutical(r),
+field support based on scan readings begins with the appropriate Infoceutical(r),
 which are drops taken in water, containing colloidal minerals
 imprinted with  energetic information. These informational data sets provide alignment
 instruction to the body-field, and can have a rejuvenating energetic effect.
 
-The NES miHealth device is also used in the home and in-office sessions to encourage the process of  restoring information to and rejuvenating the body-field. By correcting energetic field alignment, your body's inherent ability to heal itself is restored, and harmonious balance can return to body and mind.
+The NES miHealth device is also used in the home and in-office sessions to encourage the process of  restoring information to and rejuvenating the body-field.
 
 # Wellness from Anywhere
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2372c4e2c1078fb38f55c037c4ccc0827fb4052.jpg)
