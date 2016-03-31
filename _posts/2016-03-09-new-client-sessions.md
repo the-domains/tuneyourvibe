@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-03-30T23:57:43.016Z'
-dateModified: '2016-03-30T23:30:08.375Z'
+datePublished: '2016-03-31T00:23:19.491Z'
+dateModified: '2016-03-31T00:22:58.441Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -69,10 +69,15 @@ Clients need a scanning device (see below), a Windows or Mac computer running th
 
 ## Typical remote scan sessions include:
 
-* On day of session, you perform and transmit the scan.
-* We connect through a Zoom online meeting or Skype. I'll share my screen, and we'll walk through your scan elements together.
-* We discuss an Infoceutical protocol and, if applicable, a miHealth protocol for the current cycle
-* Infoceuticals are shipped, scan details are delivered to you; you are empowered.
+On the day of your scheduled session:
+
+1\. You perform and transmit the scan.
+
+2\. We connect through a Zoom online meeting or Skype. I'll share my screen, and we'll walk through your scan elements together.
+
+3\. We discuss an Infoceutical protocol and, if applicable, a miHealth protocol for the current cycle.
+
+4\. Infoceuticals are shipped, scan details are delivered to you; you are empowered.
 
 ## Scanning Devices
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40684c69-0335-4835-8949-3b2e3d189838.jpg)
