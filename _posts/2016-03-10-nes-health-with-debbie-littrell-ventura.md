@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients have rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and life became new again."
-datePublished: '2016-04-01T03:59:56.805Z'
-dateModified: '2016-04-01T03:59:55.114Z'
+description: "As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options appeared."
+datePublished: '2016-04-01T06:22:30.086Z'
+dateModified: '2016-04-01T06:22:28.901Z'
 title: NES Health with Debbie Littrell Ventura
 author: []
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
@@ -25,7 +25,7 @@ _type: Article
 # NES Health with Debbie Littrell Ventura
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/649585b8-4cd7-4d18-9f21-cc62d889442b.jpg)
 
-As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options became available.
+As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options appeared.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4c412-5a12-41c4-9dbe-df18a9c1b733.jpg)
 
 I've learned that the body is not the enemy; in fact, we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention. 
