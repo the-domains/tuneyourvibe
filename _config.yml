@@ -1,7 +1,7 @@
 name: tuneyourvibe
 favicon: null
-layout_spectrum: 0.95731
-typography_spectrum: 0.76263
+layout_spectrum: 0.88784
+typography_spectrum: 0.89797
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#9ebfb8'
     - '#946862'
   brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.0625
+  lightness: 0.4375
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
