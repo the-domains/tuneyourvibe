@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-04-01T03:42:53.455Z'
-dateModified: '2016-04-01T03:42:48.514Z'
+datePublished: '2016-04-12T23:33:11.980Z'
+dateModified: '2016-04-11T20:27:11.760Z'
 title: Energy + Information = Life
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
@@ -80,12 +80,14 @@ On the day of your scheduled session:
 ## Scanning Devices
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40684c69-0335-4835-8949-3b2e3d189838.jpg)
 
-There are three options for folks to manage their own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
+There are three options for you to manage your own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
 
 1\.**Professional miHealth device** - professional version of the world-class NES Health miHealth PEMF device. Information sets based on NES' body-field mapping are embedded in friendly frequencies that rejuvenate and restore communication in the body-field. Can be used on- or off-body. Professional version has all available functions. Training included.
 
 2\. **Client miHealth device** - same as pro but with limited programs; designed to work with a remote practitioner who loads custom functions each cycle. Training included.
 
 3\. **Client Remote Scanner** - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); great way to stay energetically supported during travels.
+
+_Site content for informational purposes only. We do not diagnose, treat, prevent, or cure any disease._
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/gM6dRCpV0fI" frameborder="0" allowfullscreen="" style=""></iframe>
