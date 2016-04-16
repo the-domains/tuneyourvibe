@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '"We live in an infinite universe with infinite boundaries." -Physicist Nassim Haramein'
-datePublished: '2016-04-12T23:35:10.390Z'
-dateModified: '2016-04-12T23:30:02.075Z'
+description: '"We are the feedback loop of information for the universe to learn about itself." -Physicist Nassim Haramein'
+datePublished: '2016-04-16T22:25:09.911Z'
+dateModified: '2016-04-16T22:23:17.937Z'
 title: Inspiration
 author: []
 sourcePath: _posts/2016-03-30-inspiration.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: inspiration/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Inspiration
