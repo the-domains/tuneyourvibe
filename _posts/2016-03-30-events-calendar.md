@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "November 4-7, 2016; NES Health Foundation Training Practicum -\_Campbell, California"
-datePublished: '2016-04-16T21:57:42.205Z'
-dateModified: '2016-04-16T21:57:30.197Z'
+datePublished: '2016-04-16T22:09:54.177Z'
+dateModified: '2016-04-16T22:09:44.079Z'
 title: Events Calendar
 author: []
 sourcePath: _posts/2016-03-30-events-calendar.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: events-calendar/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Events Calendar
