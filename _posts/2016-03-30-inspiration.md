@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"We are the feedback loop of information for the universe to learn about itself." -Physicist Nassim Haramein'
-datePublished: '2016-04-16T22:25:09.911Z'
-dateModified: '2016-04-16T22:23:17.937Z'
+datePublished: '2016-04-17T03:09:26.318Z'
+dateModified: '2016-04-17T03:09:17.942Z'
 title: Inspiration
 author: []
 sourcePath: _posts/2016-03-30-inspiration.md
