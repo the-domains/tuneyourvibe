@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "November 4-7, 2016; NES Health Foundation Training Practicum -\_Campbell, California"
-datePublished: '2016-04-17T03:33:09.383Z'
-dateModified: '2016-04-17T03:32:30.641Z'
+datePublished: '2016-04-17T03:40:28.480Z'
+dateModified: '2016-04-17T03:33:13.831Z'
 title: Events Calendar
 author: []
 sourcePath: _posts/2016-03-30-events-calendar.md
