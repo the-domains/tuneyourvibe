@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T05:49:04.262Z'
-dateModified: '2016-03-31T05:48:48.762Z'
+datePublished: '2016-04-26T16:42:40.238Z'
+dateModified: '2016-04-16T22:26:51.655Z'
 title: Inspiration
 author: []
+sourcePath: _posts/2016-03-31-inspiration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-inspiration.md
-published: true
 url: inspiration/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Inspiration
