@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T16:41:12.929Z'
-dateModified: '2016-04-26T16:41:03.852Z'
+datePublished: '2016-04-26T16:51:01.083Z'
+dateModified: '2016-04-26T16:50:35.318Z'
 title: Inspiration
 author: []
+sourcePath: _posts/2016-04-26-inspiration.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-inspiration.md
-published: true
 url: inspiration/index.html
 _type: Article
 
@@ -26,10 +26,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70cb7eb0-514a-4166-8fcb-327230ef1b52.jpg)
 
 > If you do anything consistently for forty days, it changes consciousness." - [Guru Singh][0]
-> 
-> ## The Imprinting function from a Kundalini perspective
 
-It is often said in Kundalini yoga, as taught by Yogi Bhajan: _changing a habit takes forty days of consistent focus._ In this groovy talk by Guru Singh, he explains the heart's imprinting function on the magnetic iron components of red blood cells. This imprinting, occurring with each heartbeat, tells our physical form, "This is who I am, now." 
+It is often said in Kundalini yoga, as taught by Yogi Bhajan: _changing a habit takes forty days of consistent focus._ In this groovy talk by Guru Singh, he explains the heart's imprinting function on the magnetic iron components of red blood cells. This imprinting, occurring with each heartbeat, tells our physical form, "This is who I am, now."
 
 We know from NES research that the heart's imprinting function is also happening at the QED field level, creating energetic adaptations and realignments based on our interpretation of experiences (consciousness). Energetically, "This is who I am, now" is formed into field structures that ultimately become our 3D mind/body expression. This is yet another way of understanding epigenetics (see Inspiration with Dr. Bruce Lipton).
 
