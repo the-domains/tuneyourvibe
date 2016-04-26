@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'November 4-7, 2016; NES Health Foundation Training Practicum - Campbell, California'
-datePublished: '2016-04-26T18:17:10.680Z'
-dateModified: '2016-04-26T18:16:34.549Z'
+datePublished: '2016-04-26T18:19:15.366Z'
+dateModified: '2016-04-26T18:19:12.762Z'
 title: Events Calendar
 author:
   - name: Raimundo Martin
@@ -31,9 +31,8 @@ November 4-7, 2016; NES Health Foundation Training Practicum - Campbell, Califor
 August 12-15, 2016; NES Health Foundation Training Practicum - Campbell, California
 
 May 30, 2016, 6:30pm Central Time US; [Tune Your Vibe: The Basics - Zoom online meeting. 30-minute introductory talk on the basics of wellness from a bioenergetic perspective.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c28bc09-5296-4f45-8722-da0d4ab442a9.jpg)
 
-May 9 and May 16, 2016, 6:30pm Central Time US; NES Health Practitioner Round Table - Zoom online meeting. One-hour moderated discussion for NES Health Practitioners.
+May 9 and May 16, 2016, 6:30pm Central Time US; [NES Health Practitioner Round Table - Zoom online meeting. One-hour moderated discussion for NES Health Practitioners.][0]
 
 April 29-May 2; NES Health Foundation Training Practicum - Campbell, California
 
