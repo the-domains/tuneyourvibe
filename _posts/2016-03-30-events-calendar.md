@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'November 4-7, 2016; NES Health Foundation Training Practicum - Campbell, California'
-datePublished: '2016-04-26T18:19:15.366Z'
-dateModified: '2016-04-26T18:19:12.762Z'
+datePublished: '2016-05-05T15:19:03.393Z'
+dateModified: '2016-05-05T15:19:02.881Z'
 title: Events Calendar
 author:
   - name: Raimundo Martin
     url: 'http://www.raimundomartinart.com/'
 sourcePath: _posts/2016-03-30-events-calendar.md
-published: true
 authors: []
 publisher:
   name: null
