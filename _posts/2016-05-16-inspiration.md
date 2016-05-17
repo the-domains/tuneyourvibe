@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My amazing client, Andrea, talks about her experiences with the NES Feel Good Infoceuticals:'
-datePublished: '2016-05-16T19:38:14.864Z'
-dateModified: '2016-05-16T19:38:01.901Z'
+datePublished: '2016-05-17T01:15:10.020Z'
+dateModified: '2016-05-16T19:38:23.631Z'
 title: Inspiration
 author: []
 authors: []
