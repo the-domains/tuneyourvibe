@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'My amazing client, Andrea, talks about her experiences with the NES Feel Good Infoceuticals:'
-datePublished: '2016-05-17T01:15:10.020Z'
-dateModified: '2016-05-16T19:38:23.631Z'
+description: 'My amazing client talks about her experiences with the NES Feel Good Infoceuticals:'
+datePublished: '2016-05-17T01:15:34.443Z'
+dateModified: '2016-05-17T01:15:30.836Z'
 title: Inspiration
 author: []
 authors: []
@@ -25,6 +25,6 @@ _type: Article
 
 > I use these on everybody in my family... they're very safe and I feel like they're very effective in a very subtle way."
 
-My amazing client, Andrea, talks about her experiences with the NES Feel Good Infoceuticals:
+My amazing client talks about her experiences with the NES Feel Good Infoceuticals:
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/AJmDNg_wErI" frameborder="0" allowfullscreen="" style=""></iframe>
