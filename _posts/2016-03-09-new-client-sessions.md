@@ -4,18 +4,20 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.'
-datePublished: '2016-05-17T01:18:58.956Z'
-dateModified: '2016-05-17T01:17:36.215Z'
-title: "The Body's OS"
+description: >-
+  Quantum biology is changing the way we look at health. As we view the
+  body/mind through 21st-century quantum goggles, we see a highly structured
+  collection of electromagnetic fields and oscillating wave forms, all carrying
+  information, giving rise to the physical manifestation of Us. In NES, we call
+  this highly structured energetic scaffolding the body-field.
+datePublished: '2016-08-18T04:45:07.131Z'
+dateModified: '2016-08-18T04:13:34.668Z'
+title: The Body's OS
 author: []
 sourcePath: _posts/2016-03-09-new-client-sessions.md
+via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: new-client-sessions/index.html
 _type: Article
