@@ -10,14 +10,20 @@ description: >-
   collection of electromagnetic fields and oscillating wave forms, all carrying
   information, giving rise to the physical manifestation of Us. In NES, we call
   this highly structured energetic scaffolding the body-field.
-datePublished: '2016-08-18T04:45:07.131Z'
-dateModified: '2016-08-18T04:13:34.668Z'
+datePublished: '2016-08-18T04:52:57.747Z'
+dateModified: '2016-08-18T04:52:45.606Z'
 title: The Body's OS
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-09-new-client-sessions.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: new-client-sessions/index.html
 _type: Article
