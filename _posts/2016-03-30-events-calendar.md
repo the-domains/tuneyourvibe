@@ -4,19 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'November 4-7, 2016; NES Health Foundation Training Practicum - Campbell, California'
-datePublished: '2016-05-05T15:19:03.393Z'
-dateModified: '2016-05-05T15:19:02.881Z'
+description: 'November 5-6, 2016; NES Health Annual Conference - Memphis, Tennessee'
+datePublished: '2016-08-18T04:50:50.740Z'
+dateModified: '2016-08-18T04:50:47.990Z'
 title: Events Calendar
 author:
   - name: Raimundo Martin
     url: 'http://www.raimundomartinart.com/'
 sourcePath: _posts/2016-03-30-events-calendar.md
+via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: events-calendar/index.html
@@ -25,13 +26,13 @@ _type: Article
 ---
 # Events Calendar
 
-November 4-7, 2016; NES Health Foundation Training Practicum - Campbell, California
+November 5-6, 2016; NES Health Annual Conference - Memphis, Tennessee
 
-August 12-15, 2016; NES Health Foundation Training Practicum - Campbell, California
+November 1-4, 2016; NES Health Foundation Clinical Training - Memphis, Tennessee
 
-May 30, 2016, 6:30pm Central Time US; [Tune Your Vibe: The Basics - Zoom online meeting. 30-minute introductory talk on the basics of wellness from a bioenergetic perspective.][0]
+August 12-15, 2016; NES Health Foundation Clinical Training - Campbell, California
 
-May 9 and May 16, 2016, 6:30pm Central Time US; [NES Health Practitioner Round Table - Zoom online meeting. One-hour moderated discussion for NES Health Practitioners.][0]
+May 30, 2016, 6:30pm Central Time US; Tune Your Vibe: The Basics - Zoom online meeting. 30-minute introductory talk on the basics of wellness from a bioenergetic perspective.
 
 April 29-May 2; NES Health Foundation Training Practicum - Campbell, California
 
@@ -45,5 +46,3 @@ Jan. 21, 2016; NES Health Practitioner Training Webinar Series - Step by Step Gu
 
 January 16, 2016; Global Scaling with Dr. Rainer Viehweger - Los Gatos, California
 ![Raimundo Martin, ...Shhh...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c535f5-d028-49d6-ae75-cdff729f25c7.jpg)
-
-[0]: http://my.setmore.com/bookingpage/a6241876-6ca1-4c37-88f0-2d5dd8b07fe6/bookclass
