@@ -10,18 +10,18 @@ description: >-
   cheered as my clients rekindled their creative fires; cried as I've witnessed
   liberation from profound suffering; encouraged as the paths unfolded; and
   celebrated as pains subsided, stresses ebbed, and new options appeared.
-datePublished: '2016-08-18T04:08:41.721Z'
-dateModified: '2016-08-18T04:07:03.788Z'
+datePublished: '2016-08-18T04:11:07.114Z'
+dateModified: '2016-08-18T04:10:33.694Z'
 title: About me...
 author: []
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: true
 url: nes-health-with-debbie-littrell-ventura/index.html
 _type: Article
