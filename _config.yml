@@ -1,20 +1,4 @@
-name: tuneyourvibe
-favicon: null
-layout_spectrum: 0.53794
 typography_spectrum: 0.7547
-title: TuneYourVibe
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#303a46'
@@ -26,4 +10,24 @@ color:
   lightness: 0.375
   saturation: 0.0625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.53794
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: tuneyourvibe
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Booking and Contact
+    id: bc990681-14ea-46a7-b76c-a70a342550a2
+    type: content
+favicon: null
+title: TuneYourVibe
 purpose: []
