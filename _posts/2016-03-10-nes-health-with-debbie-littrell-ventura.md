@@ -1,29 +1,25 @@
 ---
+datePublished: '2016-08-19T21:37:13.229Z'
+sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-19T21:37:12.696Z'
+title: NES Health with Debbie Littrell Ventura
+publisher: {}
 description: >-
   As a NES Health Certified Practitioner, I've had the honor and extreme
   pleasure of walking alongside many others in their wellness journeys. I've
   cheered as my clients rekindled their creative fires; cried as I've witnessed
   liberation from profound suffering; encouraged as the paths unfolded; and
   celebrated as pains subsided, stresses ebbed, and new options appeared.
-datePublished: '2016-08-18T04:42:25.149Z'
-dateModified: '2016-08-18T04:42:24.029Z'
-title: About me...
-author:
-  - name: ''
-    url: ''
-sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
-via: {}
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+inLanguage: null
+inNav: false
 starred: true
 url: nes-health-with-debbie-littrell-ventura/index.html
 _type: Article
@@ -35,11 +31,11 @@ _type: Article
 As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options appeared.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4c412-5a12-41c4-9dbe-df18a9c1b733.jpg)
 
-I've learned that the body is not the enemy; in fact, we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention. 
+## About me...
+
+I've learned that the body is not the enemy; in fact, we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention.
 
 Though the way forward may not always be clear, we have the option to choose how to respond to these messages. Resistance takes many forms and keeps us stuck in the patterns that created the imbalance in the first place. Acceptance and a curious, loving perspective toward our situation can shift us out of the worn tracks of suffering and calls to us new helpers and solutions. This is where healing begins.
-
-## About me...
 
 I worked as a professional in the legal technology field for more than twenty five years. My great love and passion, however, is the study and application of bioenergetic and informational healthcare. I knew when I first discovered NES that it was revolutionary and held the potential to change the way we understand energy and information in relation to well-being. I also intuitively knew that if anything could help my loved ones suffering from debilitating illnesses and their treatments, it was this amazing therapeutic system.
 
@@ -55,7 +51,7 @@ Some years ago I developed an auto-immune condition affecting my thyroid functio
 "You'll never heal this holistically! Just take the pill and get over it," said the good doctor. By this time, I had lost more than fifty pounds despite eating constantly; most of my hair had fallen out; my eyes were protruding painfully; my heart was racing and skipping beats; I rarely slept; and I was a shaky, hot (as in profusely sweaty and shriveled) mess. "The pill" to which the doctor referred was radioactive iodine (Radioiodine I-131), and was, and continues to be, the go-to treatment for hyperthyroid disorders, such as Grave's Disease.
 
 The proposed plan was to kill off my thyroid gland over a period of weeks using radiation. I have a natural curiosity and desire to learn things from every conceivable angle, so I was determined to understand fully the consequences of this seemingly drastic attack on the single most important gland in my body, despite my diminished ability to think and make decisions -- another awful and frightening symptom of my condition.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/985e6a9f-2d6f-406a-9991-d0dce6570f2c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cfbb191978e3d3d49610faa5ab86b90437670b6.jpg)
 
 I had already learned that a side effect of irradiating a hyperactive thyroid gland is the gland's propensity to pump out even more thyroid hormone in its dying gasps. The excessive circulating hormone often exacerbates proptosis, and leaves the victim with permanently bulging eyeballs. So, if the idea of irradiating my already very sick body was not enough, the prospect of spending the rest of my life looking like a cartoon drawing of myself was. Vainly, perhaps, I refused.
 
