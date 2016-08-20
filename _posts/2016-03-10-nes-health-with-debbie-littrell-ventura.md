@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:10:00.452Z'
+datePublished: '2016-08-19T22:16:46.770Z'
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T22:09:59.893Z'
+dateModified: '2016-08-19T22:16:45.887Z'
 title: NES Health with Debbie Littrell Ventura
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/649585b8-4cd7-4d18-9f21-cc62d889442b.jpg)
 
 As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options appeared.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4c412-5a12-41c4-9dbe-df18a9c1b733.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd250439-1715-4325-9566-e6d9fd9a97a7.jpg)
 
 ### About me...
 
