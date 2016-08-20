@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-20T00:48:45.932Z'
+datePublished: '2016-08-20T01:11:47.547Z'
+sourcePath: _posts/2016-03-09-new-client-sessions.md
 inFeed: true
 hasPage: true
 author:
@@ -29,8 +30,8 @@ metadata:
     NES, we call this highly structured energetic scaffolding the body-field.
   inLanguage: null
   inNav: true
-dateModified: '2016-08-20T00:48:45.300Z'
-title: The Body's OS
+dateModified: '2016-08-20T01:11:46.744Z'
+title: ''
 id: c03675e4-5619-455b-b665-73514a36f23f
 publisher: {}
 description: >-
@@ -40,7 +41,6 @@ description: >-
   information, giving rise to the physical manifestation of Us. In NES, we call
   this highly structured energetic scaffolding the body-field.
 starred: false
-sourcePath: _posts/2016-03-09-new-client-sessions.md
 url: new-client-sessions/index.html
 _type: Article
 
