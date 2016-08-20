@@ -1,19 +1,40 @@
 ---
 id: eed0ed54-bc3d-472d-be6f-470c9fd02ac9
 metadata:
-  datePublished: '2016-08-19T22:42:08.877Z'
+  datePublished: '2016-08-19T23:50:01.798Z'
   sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
-  inFeed: true
   isBasedOnUrl: ''
-  authors: []
-  hasPage: true
-  keywords: []
   author:
     - name: ''
       url: ''
   via: {}
-  dateModified: '2016-08-19T22:42:08.877Z'
+  metadata:
+    datePublished: '2016-08-19T22:42:08.877Z'
+    sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
+    inFeed: true
+    isBasedOnUrl: ''
+    authors: []
+    hasPage: true
+    keywords: []
+    author:
+      - name: ''
+        url: ''
+    via: {}
+    dateModified: '2016-08-19T22:42:08.877Z'
+    title: NES Health with Debbie Littrell Ventura
+    publisher: {}
+    description: >-
+      As a NES Health Certified Practitioner, I've had the honor and extreme
+      pleasure of walking alongside many others in their wellness journeys. I've
+      cheered as my clients rekindled their creative fires; cried as I've
+      witnessed liberation from profound suffering; encouraged as the paths
+      unfolded; and celebrated as pains subsided, stresses ebbed, and new
+      options appeared.
+    inLanguage: null
+    inNav: false
+  dateModified: '2016-08-19T23:50:01.798Z'
   title: NES Health with Debbie Littrell Ventura
+  id: eed0ed54-bc3d-472d-be6f-470c9fd02ac9
   publisher: {}
   description: >-
     As a NES Health Certified Practitioner, I've had the honor and extreme
@@ -22,16 +43,13 @@ metadata:
     witnessed liberation from profound suffering; encouraged as the paths
     unfolded; and celebrated as pains subsided, stresses ebbed, and new options
     appeared.
-  inLanguage: null
-  inNav: false
-dateModified: '2016-08-19T23:49:41.766Z'
+dateModified: '2016-08-20T00:29:08.462Z'
 title: NES Health with Debbie Littrell Ventura
-datePublished: '2016-08-19T23:50:01.798Z'
+datePublished: '2016-08-20T00:29:09.144Z'
 author:
   - name: ''
     url: ''
 isBasedOnUrl: ''
-sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 description: >-
   As a NES Health Certified Practitioner, I've had the honor and extreme
   pleasure of walking alongside many others in their wellness journeys. I've
@@ -40,7 +58,8 @@ description: >-
   celebrated as pains subsided, stresses ebbed, and new options appeared.
 publisher: {}
 via: {}
-starred: true
+starred: false
+sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
 hasPage: false
 inNav: false
