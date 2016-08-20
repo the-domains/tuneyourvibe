@@ -1,21 +1,20 @@
 ---
-datePublished: '2016-08-19T22:30:30.955Z'
+datePublished: '2016-08-19T22:32:30.600Z'
 sourcePath: _posts/2016-03-30-inspiration.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-19T22:30:30.006Z'
+dateModified: '2016-08-19T22:32:29.952Z'
 title: Inspiration
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 description: >-
-  "We are the feedback loop of information for the universe to learn about
-  itself." -Physicist Nassim Haramein
+  "...Genetic determinism also led to the belief that genes control our health,
+  the characteristics of our health, our behavior, and our emotions.... A gene
+  is the blueprint. Blueprints do not turn on and off.... Turns out today it is
+  apparent that one percent or less of disease issues on this planet is actually
+  connected to genes." -Cell biologist Bruce Lipton
 inLanguage: null
 inNav: false
 via: {}
@@ -25,10 +24,10 @@ _type: Blurb
 
 ---
 # Inspiration
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae3eb2b-2156-4fe6-8111-0d8f878bbf8b.jpg)
 
-"We are the feedback loop of information for the universe to learn about itself." -[Physicist Nassim Haramein][0]
+"...Genetic determinism also led to the belief that genes control our health, the characteristics of our health, our behavior, and our emotions.... A gene is the blueprint. Blueprints do not turn on and off.... Turns out today it is apparent that one percent or less of disease issues on this planet is actually connected to genes." -Cell biologist Bruce Lipton
 
-Nassim is credited with the most accurate calculation of the charge radius of the proton, a measurement which reveals that each proton within every molecule of our bodies (and all matter) has the mass of a black hole! This is significant because black holes 1) are connected to all other black holes; and 2) each holographically/fractally contain all mass and information in the entire Universe. This is physics, proving the spiritual concept "We are all One". I love this, also, because it means we each have within us access to all information available in existence. We are only limited by our own beliefs (see Inspiration post with Dr. Bruce Lipton).
+In his stunning work, _The Biology of Belief, _Bruce Lipton explains Epigenetics, the new understanding that the environment (the world we perceive) controls the expression of genes and, subsequently, how our bodies function, or don't.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb7f77cf343fee5a3b3abf88870273bc7f0a8916.jpg)
 
-[0]: http://resonance.is/explore/nassim-haramein/
+Ultimately, awareness of what drives our perception is key to understanding our path to wellness. In this lively and interesting discussion with Alan Steinfield, Dr. Lipton breaks it way down.
