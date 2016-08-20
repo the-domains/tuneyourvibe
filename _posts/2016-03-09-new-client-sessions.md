@@ -1,16 +1,37 @@
 ---
-datePublished: '2016-08-19T22:28:11.693Z'
-sourcePath: _posts/2016-03-09-new-client-sessions.md
+datePublished: '2016-08-20T00:48:45.932Z'
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T22:28:10.204Z'
+metadata:
+  datePublished: '2016-08-19T22:28:11.693Z'
+  sourcePath: _posts/2016-03-09-new-client-sessions.md
+  inFeed: true
+  isBasedOnUrl: 'https://form.jotform.com/60683962843163'
+  authors: []
+  hasPage: true
+  keywords: []
+  author:
+    - name: ''
+      url: ''
+  via: {}
+  dateModified: '2016-08-19T22:28:11.693Z'
+  title: The Body's OS
+  publisher: {}
+  description: >-
+    Quantum biology is changing the way we look at health. As we view the
+    body/mind through 21st-century quantum goggles, we see a highly structured
+    collection of electromagnetic fields and oscillating wave forms, all
+    carrying information, giving rise to the physical manifestation of Us. In
+    NES, we call this highly structured energetic scaffolding the body-field.
+  inLanguage: null
+  inNav: true
+dateModified: '2016-08-20T00:48:45.300Z'
 title: The Body's OS
+id: c03675e4-5619-455b-b665-73514a36f23f
 publisher: {}
 description: >-
   Quantum biology is changing the way we look at health. As we view the
@@ -18,9 +39,8 @@ description: >-
   collection of electromagnetic fields and oscillating wave forms, all carrying
   information, giving rise to the physical manifestation of Us. In NES, we call
   this highly structured energetic scaffolding the body-field.
-inLanguage: null
-inNav: true
 starred: false
+sourcePath: _posts/2016-03-09-new-client-sessions.md
 url: new-client-sessions/index.html
 _type: Article
 
@@ -72,7 +92,7 @@ On the day of your scheduled session:
 4\. Infoceuticals are shipped, scan details are delivered to you; you are empowered.
 
 ## Scanning Devices
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c30b98b81d364f6fb6ad9e39a280500b5d2ca18.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/17aa63cf6422555b6402f10113e1cc2626a6926c.jpg)
 
 There are three options for you to manage your own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
 
