@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:16:46.770Z'
+datePublished: '2016-08-19T22:25:18.200Z'
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T22:16:45.887Z'
+dateModified: '2016-08-19T22:25:17.375Z'
 title: NES Health with Debbie Littrell Ventura
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   celebrated as pains subsided, stresses ebbed, and new options appeared.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: nes-health-with-debbie-littrell-ventura/index.html
 _type: Article
 
@@ -31,7 +31,7 @@ _type: Article
 As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options appeared.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd250439-1715-4325-9566-e6d9fd9a97a7.jpg)
 
-### About me...
+## About me...
 
 I've learned that the body is not the enemy; in fact, we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention.
 
