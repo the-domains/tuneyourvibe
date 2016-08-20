@@ -28,6 +28,9 @@ navigation:
   - name: Booking and Contact
     id: bc990681-14ea-46a7-b76c-a70a342550a2
     type: content
+  - name: NES Health with Debbie Littrell Ventura
+    id: eed0ed54-bc3d-472d-be6f-470c9fd02ac9
+    type: content
 favicon: null
 title: TuneYourVibe
 purpose: []
