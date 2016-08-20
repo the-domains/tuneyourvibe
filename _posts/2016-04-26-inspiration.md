@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-19T22:09:31.824Z'
+datePublished: '2016-08-19T22:29:41.527Z'
 sourcePath: _posts/2016-04-26-inspiration.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-19T22:09:31.037Z'
+via: {}
+dateModified: '2016-08-19T22:29:40.734Z'
 title: Inspiration
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   Guru Singh
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: inspiration/index.html
 _type: Blurb
