@@ -43,9 +43,9 @@ metadata:
     witnessed liberation from profound suffering; encouraged as the paths
     unfolded; and celebrated as pains subsided, stresses ebbed, and new options
     appeared.
-dateModified: '2016-08-20T00:29:08.462Z'
+dateModified: '2016-08-20T00:29:11.950Z'
 title: NES Health with Debbie Littrell Ventura
-datePublished: '2016-08-20T00:29:09.144Z'
+datePublished: '2016-08-20T00:29:12.361Z'
 author:
   - name: ''
     url: ''
@@ -58,8 +58,8 @@ description: >-
   celebrated as pains subsided, stresses ebbed, and new options appeared.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
