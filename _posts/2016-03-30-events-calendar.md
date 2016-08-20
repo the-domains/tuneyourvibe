@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:30:49.990Z'
+datePublished: '2016-08-19T23:35:28.389Z'
 sourcePath: _posts/2016-03-30-events-calendar.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Raimundo Martin
     url: 'http://www.raimundomartinart.com/'
 via: {}
-dateModified: '2016-08-19T22:30:49.478Z'
+dateModified: '2016-08-19T23:35:27.960Z'
 title: Events Calendar
 publisher: {}
 description: 'November 5-6, 2016; NES Health Annual Conference - Memphis, Tennessee'
@@ -25,6 +25,7 @@ _type: Article
 November 5-6, 2016; NES Health Annual Conference - Memphis, Tennessee
 
 November 1-4, 2016; NES Health Foundation Clinical Training - Memphis, Tennessee
+![Raimundo Martin, ...Shhh...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c535f5-d028-49d6-ae75-cdff729f25c7.jpg)
 
 August 12-15, 2016; NES Health Foundation Clinical Training - Campbell, California
 
@@ -41,4 +42,3 @@ Jan. 30-31, 2016; Introduction to the Hakomi Method, Austin, Texas
 Jan. 21, 2016; NES Health Practitioner Training Webinar Series - Step by Step Guide to Remote Scanning with Debbie Ventura
 
 January 16, 2016; Global Scaling with Dr. Rainer Viehweger - Los Gatos, California
-![Raimundo Martin, ...Shhh...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c535f5-d028-49d6-ae75-cdff729f25c7.jpg)
