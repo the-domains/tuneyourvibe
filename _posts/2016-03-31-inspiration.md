@@ -1,21 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-05T15:27:37.230Z'
-dateModified: '2016-05-05T15:27:29.590Z'
-title: Inspiration
-author: []
+datePublished: '2016-08-19T21:46:13.950Z'
 sourcePath: _posts/2016-03-31-inspiration.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-19T21:46:13.262Z'
+title: Inspiration
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: inspiration/index.html
 _type: Article
@@ -24,8 +21,6 @@ _type: Article
 # Inspiration
 
 ## The Living Matrix: The Movie
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb88074c-75ab-49b8-83fd-4588cba0ad55.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb57872654205981c1b3ced563a7e8c80ada2427.jpg)
 
-"The Living Matrix - The Science of Healing, uncovers new ideas about the intricate web of factors that determine our health. We talk with a group of dedicated scientists, psychologists, bioenergetic researchers and holistic practitioners who are finding healing potential in a wide variety of new places." - _The Living Matrix_
-
-<iframe width="960" height="570" src="https://www.youtube.com/embed/YDP3KKVbFw4" frameborder="0" allowfullscreen="" style=""></iframe>
+> "The Living Matrix - The Science of Healing, uncovers new ideas about the intricate web of factors that determine our health. We talk with a group of dedicated scientists, psychologists, bioenergetic researchers and holistic practitioners who are finding healing potential in a wide variety of new places." - _The Living Matrix_
