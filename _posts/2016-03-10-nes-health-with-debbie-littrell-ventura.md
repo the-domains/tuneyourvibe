@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:38:26.109Z'
+datePublished: '2016-08-19T22:42:08.877Z'
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T22:38:25.493Z'
+dateModified: '2016-08-19T22:42:08.245Z'
 title: NES Health with Debbie Littrell Ventura
 publisher: {}
 description: >-
