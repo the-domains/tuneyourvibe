@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:25:18.200Z'
+datePublished: '2016-08-19T22:25:22.008Z'
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T22:25:17.375Z'
+dateModified: '2016-08-19T22:25:21.642Z'
 title: NES Health with Debbie Littrell Ventura
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   celebrated as pains subsided, stresses ebbed, and new options appeared.
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: nes-health-with-debbie-littrell-ventura/index.html
 _type: Article
 
