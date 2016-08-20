@@ -1,29 +1,25 @@
 ---
+datePublished: '2016-08-19T22:28:11.693Z'
+sourcePath: _posts/2016-03-09-new-client-sessions.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-19T22:28:10.204Z'
+title: The Body's OS
+publisher: {}
 description: >-
   Quantum biology is changing the way we look at health. As we view the
   body/mind through 21st-century quantum goggles, we see a highly structured
   collection of electromagnetic fields and oscillating wave forms, all carrying
   information, giving rise to the physical manifestation of Us. In NES, we call
   this highly structured energetic scaffolding the body-field.
-datePublished: '2016-08-18T04:52:57.747Z'
-dateModified: '2016-08-18T04:52:45.606Z'
-title: The Body's OS
-author:
-  - name: ''
-    url: ''
-sourcePath: _posts/2016-03-09-new-client-sessions.md
-via: {}
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+inLanguage: null
+inNav: true
 starred: false
 url: new-client-sessions/index.html
 _type: Article
@@ -31,22 +27,22 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d40b7e-046b-4a53-81b6-0b0185189881.jpg)
 
-# Energy + Information = Life
-
 Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.
 
 ## The Body's OS
 
 The body-field can be thought of as the operating system, supporting all the processing that occurs in the hardware of your body. When functioning in alignment, the body-field orchestrates harmonious balance in your body and mind, and encourages the body's own ability to heal and be well.
 
+# Energy + Information = Life
+
 Energy medicine in its many forms provides new alignment opportunities that promote growth on all levels.
 
 NES is perfectly suited to this role, as its detailed mapping of the body-field allows for sequenced, highly directed support for the underlying energy structures of the body.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/233c441b0dded7046f82d8107253716bb88deb47.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a0ced26d7fd6ebb952025d2f8fefc761f1d4bec.jpg)
 
 ## NES Health - One Million Scans and Counting...
 
-For more than fourteen years, health practitioners around the world have been helping people get well and stay well with NES Health. 
+For more than fourteen years, health practitioners around the world have been helping people get well and stay well with NES Health.
 
 NES Health sessions begin with a fast, non-invasive scan which detects energetic fluctuations occurring in the body/mind, allowing us to support the field where change and growth are occurring.
 
@@ -76,7 +72,7 @@ On the day of your scheduled session:
 4\. Infoceuticals are shipped, scan details are delivered to you; you are empowered.
 
 ## Scanning Devices
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40684c69-0335-4835-8949-3b2e3d189838.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c30b98b81d364f6fb6ad9e39a280500b5d2ca18.jpg)
 
 There are three options for you to manage your own NES Health experience. All three devices perform scans; the miHealth devices have additional functionality.
 
@@ -87,5 +83,3 @@ There are three options for you to manage your own NES Health experience. All th
 3\. **Client Remote Scanner** - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); a great way to stay energetically supported during travels.
 
 _Site content for informational purposes only. We do not diagnose, treat, prevent, or cure any disease._
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/gM6dRCpV0fI" frameborder="0" allowfullscreen="" style=""></iframe>
