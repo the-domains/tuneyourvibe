@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-20T00:43:16.186Z'
+datePublished: '2016-08-20T01:10:31.313Z'
+sourcePath: _posts/2016-08-19-inspiration.md
 inFeed: true
 hasPage: true
 author:
@@ -81,7 +82,7 @@ metadata:
       Infoceuticals:
     inLanguage: en
   dateModified: '2016-08-19T23:49:40.591Z'
-dateModified: '2016-08-20T00:43:15.545Z'
+dateModified: '2016-08-20T01:10:30.761Z'
 title: Inspiration
 id: 46b04eaa-950c-4705-a98d-2ca185c9ceb9
 publisher:
@@ -90,10 +91,11 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 description: >-
-  I use these on everybody in my family... they're very safe and I feel like
-  they're very effective in a very subtle way.
+  A line of infoceuticals for everyone without getting a NES ProVision scan.
+  These are great to have around the house & are a great energetic first aid
+  kit. This video only describes my personal experiences & descriptions. Please
+  speak to a NES practitioner for more information.
 starred: false
-sourcePath: _posts/2016-08-19-inspiration.md
 url: inspiration/index.html
 _type: Article
 
@@ -102,6 +104,6 @@ _type: Article
 
 > I use these on everybody in my family... they're very safe and I feel like they're very effective in a very subtle way.
 
-My amazing client talks about her experiences with the NES Feel Good Infoceuticals:
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAJmDNg_wErI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAJmDNg_wErI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAJmDNg_wErI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+My amazing client talks about her experiences with the NES Feel Good Infoceuticals.
