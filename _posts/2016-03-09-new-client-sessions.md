@@ -1,8 +1,18 @@
 ---
-datePublished: '2016-08-20T01:11:47.547Z'
-sourcePath: _posts/2016-03-09-new-client-sessions.md
 inFeed: true
 hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: >-
+  Quantum biology is changing the way we look at health. As we view the
+  body/mind through 21st-century quantum goggles, we see a highly structured
+  collection of electromagnetic fields and oscillating wave forms, all carrying
+  information, giving rise to the physical manifestation of Us. In NES, we call
+  this highly structured energetic scaffolding the body-field.
+datePublished: '2016-08-21T14:45:50.739Z'
+dateModified: '2016-08-21T14:43:49.314Z'
+sourcePath: _posts/2016-03-09-new-client-sessions.md
 author:
   - name: ''
     url: ''
@@ -30,21 +40,20 @@ metadata:
     NES, we call this highly structured energetic scaffolding the body-field.
   inLanguage: null
   inNav: true
-dateModified: '2016-08-20T01:11:46.744Z'
 title: ''
 id: c03675e4-5619-455b-b665-73514a36f23f
-publisher: {}
-description: >-
-  Quantum biology is changing the way we look at health. As we view the
-  body/mind through 21st-century quantum goggles, we see a highly structured
-  collection of electromagnetic fields and oscillating wave forms, all carrying
-  information, giving rise to the physical manifestation of Us. In NES, we call
-  this highly structured energetic scaffolding the body-field.
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: new-client-sessions/index.html
 _type: Article
 
 ---
+# Energy + Information = Life
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d40b7e-046b-4a53-81b6-0b0185189881.jpg)
 
 Quantum biology is changing the way we look at health. As we view the body/mind through 21st-century quantum goggles, we see a highly structured collection of electromagnetic fields and oscillating wave forms, all carrying information, giving rise to the physical manifestation of Us. In NES, we call this highly structured energetic scaffolding the body-field.
@@ -53,11 +62,9 @@ Quantum biology is changing the way we look at health. As we view the body/mind 
 
 The body-field can be thought of as the operating system, supporting all the processing that occurs in the hardware of your body. When functioning in alignment, the body-field orchestrates harmonious balance in your body and mind, and encourages the body's own ability to heal and be well.
 
-# Energy + Information = Life
-
 Energy medicine in its many forms provides new alignment opportunities that promote growth on all levels.
 
-NES is perfectly suited to this role, as its detailed mapping of the body-field allows for sequenced, highly directed support for the underlying energy structures of the body.
+NES is perfectly suited to this role, as its detailed mapping of the body-field allows for sequenced, highly directed support for the underlying energy structures of the body.NES Health - One Million Scans and Counting...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a0ced26d7fd6ebb952025d2f8fefc761f1d4bec.jpg)
 
 ## NES Health - One Million Scans and Counting...
