@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:05:26.635Z'
+datePublished: '2016-08-24T21:36:48.307Z'
 sourcePath: _posts/2016-03-09-new-client-sessions.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T21:05:26.137Z'
+dateModified: '2016-08-24T21:36:47.880Z'
 title: Energy + Information = Life
 id: c03675e4-5619-455b-b665-73514a36f23f
 publisher: {}
