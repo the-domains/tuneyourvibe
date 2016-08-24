@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:01:35.113Z'
+datePublished: '2016-08-24T21:05:26.635Z'
 sourcePath: _posts/2016-03-09-new-client-sessions.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T21:01:34.752Z'
+dateModified: '2016-08-24T21:05:26.137Z'
 title: Energy + Information = Life
 id: c03675e4-5619-455b-b665-73514a36f23f
 publisher: {}
@@ -83,3 +83,5 @@ There are three options for you to manage your own NES Health experience. All th
 3\. **Client Remote Scanner** - a simple scanning device that plugs into the USB port on a Windows or Mac computer running the NES Desktop software. It's small and portable (about the size of a computer mouse); a great way to stay energetically supported during travels.
 
 _Site content for informational purposes only. We do not diagnose, treat, prevent, or cure any disease._
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgM6dRCpV0fI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgM6dRCpV0fI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgM6dRCpV0fI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
