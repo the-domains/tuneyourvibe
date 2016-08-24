@@ -1,53 +1,26 @@
 ---
+datePublished: '2016-08-24T21:01:35.113Z'
+sourcePath: _posts/2016-03-09-new-client-sessions.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-24T21:01:34.752Z'
+title: Energy + Information = Life
+id: c03675e4-5619-455b-b665-73514a36f23f
+publisher: {}
 description: >-
   Quantum biology is changing the way we look at health. As we view the
   body/mind through 21st-century quantum goggles, we see a highly structured
   collection of electromagnetic fields and oscillating wave forms, all carrying
   information, giving rise to the physical manifestation of Us. In NES, we call
   this highly structured energetic scaffolding the body-field.
-datePublished: '2016-08-21T14:45:50.739Z'
-dateModified: '2016-08-21T14:43:49.314Z'
-sourcePath: _posts/2016-03-09-new-client-sessions.md
-author:
-  - name: ''
-    url: ''
-via: {}
-metadata:
-  datePublished: '2016-08-19T22:28:11.693Z'
-  sourcePath: _posts/2016-03-09-new-client-sessions.md
-  inFeed: true
-  isBasedOnUrl: 'https://form.jotform.com/60683962843163'
-  authors: []
-  hasPage: true
-  keywords: []
-  author:
-    - name: ''
-      url: ''
-  via: {}
-  dateModified: '2016-08-19T22:28:11.693Z'
-  title: The Body's OS
-  publisher: {}
-  description: >-
-    Quantum biology is changing the way we look at health. As we view the
-    body/mind through 21st-century quantum goggles, we see a highly structured
-    collection of electromagnetic fields and oscillating wave forms, all
-    carrying information, giving rise to the physical manifestation of Us. In
-    NES, we call this highly structured energetic scaffolding the body-field.
-  inLanguage: null
-  inNav: true
-title: ''
-id: c03675e4-5619-455b-b665-73514a36f23f
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: new-client-sessions/index.html
 _type: Article
