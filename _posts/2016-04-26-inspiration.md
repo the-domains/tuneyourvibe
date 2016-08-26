@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:10:12.840Z'
+datePublished: '2016-08-26T01:03:02.552Z'
 sourcePath: _posts/2016-04-26-inspiration.md
 inFeed: true
 authors: []
@@ -7,11 +7,11 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:10:10.060Z'
+dateModified: '2016-08-26T01:03:02.088Z'
 title: Inspiration
 publisher: {}
 description: >-
-  If you do anything consistently for forty days, it changes consciousness." -
+  If you do anything consistently for forty days, it changes consciousness.” -
   Guru Singh
 inLanguage: null
 inNav: false
@@ -21,10 +21,9 @@ _type: Article
 
 ---
 # Inspiration
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2b0e009-0bce-410b-9e63-02648088b1bf.jpg)
 
 > If you do anything consistently for forty days, it changes consciousness." - [Guru Singh][0]
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70cb7eb0-514a-4166-8fcb-327230ef1b52.jpg)
 
 It is often said in Kundalini yoga, as taught by Yogi Bhajan: _changing a habit takes forty days of consistent focus._ In this groovy talk by Guru Singh, he explains the heart's imprinting function on the magnetic iron components of red blood cells. This imprinting, occurring with each heartbeat, tells our physical form, "This is who I am, now."
 
@@ -36,4 +35,4 @@ Cultivating a dedicated practice - even if it's as simple as, _I'm going to stop
 
 
 
-[0]: http://www.gurusingh.com/
+[0]: http://gurusingh.com/
