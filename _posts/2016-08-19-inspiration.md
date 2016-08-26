@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:04:14.633Z'
+datePublished: '2016-08-26T01:13:07.323Z'
 sourcePath: _posts/2016-08-19-inspiration.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/channel/UCJ5fgMpeVMTBrcoseAKSkkA'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T21:04:14.343Z'
+dateModified: '2016-08-26T01:13:06.644Z'
 title: Inspiration
 id: 46b04eaa-950c-4705-a98d-2ca185c9ceb9
 publisher:
@@ -17,8 +17,8 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 description: >-
-  My amazing client talks about her experiences with the NES Feel Good
-  Infoceuticals.
+  I use these on everybody in my family... they're very safe and I feel like
+  they're very effective in a very subtle way.
 starred: false
 url: inspiration/index.html
 _type: Article
