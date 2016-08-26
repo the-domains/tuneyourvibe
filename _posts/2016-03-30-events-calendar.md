@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:02:00.020Z'
+datePublished: '2016-08-26T01:26:14.110Z'
 sourcePath: _posts/2016-03-30-events-calendar.md
 inFeed: true
 hasPage: true
@@ -7,22 +7,22 @@ author:
   - name: Raimundo Martin
     url: 'http://www.raimundomartinart.com/'
 via: {}
-dateModified: '2016-08-24T21:01:59.613Z'
+dateModified: '2016-08-26T01:26:13.156Z'
 title: Events Calendar
 id: caf603cc-05ed-48e8-bd83-c3c3c4359f44
 publisher: {}
-description: 'November 5-6, 2016; NES Health Annual Conference - Memphis, Tennessee'
+description: ...Shhh...
 starred: false
 url: events-calendar/index.html
 _type: Article
 
 ---
 # Events Calendar
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c535f5-d028-49d6-ae75-cdff729f25c7.jpg)
 
 November 5-6, 2016; NES Health Annual Conference - Memphis, Tennessee
 
 November 1-4, 2016; NES Health Foundation Clinical Training - Memphis, Tennessee
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c535f5-d028-49d6-ae75-cdff729f25c7.jpg)
 
 August 12-15, 2016; NES Health Foundation Clinical Training - Campbell, California
 
