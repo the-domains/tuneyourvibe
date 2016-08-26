@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:34:29.395Z'
+datePublished: '2016-08-26T01:12:41.276Z'
 sourcePath: _posts/2016-03-10-nes-health-with-debbie-littrell-ventura.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T21:34:28.660Z'
+dateModified: '2016-08-26T01:12:40.531Z'
 title: NES Health with Debbie Littrell Ventura
 id: eed0ed54-bc3d-472d-be6f-470c9fd02ac9
 publisher: {}
@@ -28,11 +28,11 @@ _type: Article
 As a NES Health Certified Practitioner, I've had the honor and extreme pleasure of walking alongside many others in their wellness journeys. I've cheered as my clients rekindled their creative fires; cried as I've witnessed liberation from profound suffering; encouraged as the paths unfolded; and celebrated as pains subsided, stresses ebbed, and new options appeared.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd250439-1715-4325-9566-e6d9fd9a97a7.jpg)
 
-## About me...
-
 I've learned that the body is not the enemy; in fact, we are always striving toward wholeness. When we lose energetic coherence, whether through trauma or prolonged stress, the body begins to adapt to the changes in our energetic structure in an effort to continue carrying out our wishes. In my own experience, these adaptations - pain, changes in stamina or mobility, tolerance to the environment, mood swings and distress - are messages from within that something has changed and needs our conscious attention.
 
 Though the way forward may not always be clear, we have the option to choose how to respond to these messages. Resistance takes many forms and keeps us stuck in the patterns that created the imbalance in the first place. Acceptance and a curious, loving perspective toward our situation can shift us out of the worn tracks of suffering and calls to us new helpers and solutions. This is where healing begins.
+
+## About me...
 
 I worked as a professional in the legal technology field for more than twenty five years. My great love and passion, however, is the study and application of bioenergetic and informational healthcare. I knew when I first discovered NES that it was revolutionary and held the potential to change the way we understand energy and information in relation to well-being. I also intuitively knew that if anything could help my loved ones suffering from debilitating illnesses and their treatments, it was this amazing therapeutic system.
 
