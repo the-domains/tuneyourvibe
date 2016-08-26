@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:26:17.391Z'
+datePublished: '2016-08-26T01:11:14.808Z'
 sourcePath: _posts/2016-03-31-inspiration.md
 inFeed: true
 authors: []
@@ -7,10 +7,15 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:26:16.215Z'
+dateModified: '2016-08-26T01:11:14.339Z'
 title: Inspiration
 publisher: {}
-description: ''
+description: >-
+  "The Living Matrix - The Science of Healing, uncovers new ideas about the
+  intricate web of factors that determine our health. We talk with a group of
+  dedicated scientists, psychologists, bioenergetic researchers and holistic
+  practitioners who are finding healing potential in a wide variety of new
+  places." - The Living Matrix
 inLanguage: null
 inNav: false
 starred: false
